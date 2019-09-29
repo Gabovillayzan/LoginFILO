@@ -1,9 +1,6 @@
-# Minimal Auth login app (Mongo, )
- [Create React App](https://github.com/facebook/create-react-app).
-
-
-Minimal full-stack app with authentication using passport and JWTs.
-This is tha based app to "FILO", Peruvian airports inspection app.
+# Minimal Auth login app used in FILO APP
+ 
+This is tha based app to "FILO", Peruvian airports inspection app (Mongo, Node, React, Express, using passport and JWTs).
 
 This project uses the following technologies:
 
